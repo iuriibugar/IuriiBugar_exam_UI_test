@@ -1,0 +1,17 @@
+{
+  "email": "example@cypress.io",
+  "password": "Using fixtures to represent data",
+  "motherMaidenName": "Guzailo",
+
+  "country": "Ukraine",
+  "name": "Aguero",
+  "mobNumber": "380672541857",
+  "zipCode": "01001",
+  "address": "Geroiv str.",
+  "city": "Kyiv",
+  "state": "Kyiv",
+
+  "cardNumer": "1234567890123456",
+  "expiryMonth": "3",
+  "expiryYear": "2026"
+}
